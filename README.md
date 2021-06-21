@@ -2,13 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=https://abdelkader-rhouati.medium.com/&style=for-the-badge&url=https://abdelkader-rhouati.medium.com/)](https://arhouati.github.io/) [![Website](https://img.shields.io/website?label=https%3A%2F%2Farhouati.github.io%2F&style=for-the-badge&url=https%3A%2F%2Farhouati.github.io%2F)](https://arhouati.github.io/) [![Twitter Follow](https://img.shields.io/twitter/follow/arhouati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farhouati&screen_name=arhouati)
 
-## I'm a PhD Student @LIMSI, University of Paris-Saclay, CNRS (France)
+## I'm a DataScientist and Ph.D researcher on NLP, Machine Learning, Computer Vision and XAI, Novelis.io (Ecole Polytechnique Paris, France)
 
-- 🔭 I’m currently trying to build better word embeddings for specialized domains (e.g. biomedical domain)!
-- 🌱 I’m currently learning a systems language and multiple web frameworks 💻
-- 👯 I’m looking to collaborate with other PhD students/Researchers who work on similar topics
-- 🥅 2021 Goals: Defend my PhD, learn new programming languages & brush up on my maths/statistics
-- ⚡ Fun facts: I love cooking 🍜, scotch whisky 🥃, classic rock 🎧, video games 🎮 and playing my guitar 🎸
+⚡ Fun facts: I love live and animation movies, I'm working on my first live short movie as director and script writer.
 
 ### Connect with me:
 
@@ -17,66 +13,30 @@
 [<img align="left" alt="arhouati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Languages and Tools:
-
-Those I know:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/pytorch/pytorch/b85568a54a9c60986235ad1e0cc5dffc71b9d5b1/docs/source/_static/img/pytorch-logo-flame.svg" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-
-<br />
-<br />
-
-Those I'm learning:
-
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<br />
-<br />
-
 ---
 
 ### 👨🏻‍🔬 Scientific Publications
 
 Published:
 
-- 🇺🇸 <a href="https://arxiv.org/abs/2010.10392">CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters</a>
-- 🇺🇸 <a href="https://helboukkouri.github.io/blog/assets/pdf/acl_srw_2019_en.pdf">Embedding Strategies for Specialized Domains: Application to Clinical Entity Recognition</a>
-- 🇫🇷 <a href="https://helboukkouri.github.io/blog/assets/pdf/recital_2020_fr.pdf">Ré-entraîner ou entraîner soi-même ? Stratégies de pré-entraînement de BERT en domaine médical</a>
+- [Google Scholar profile](https://scholar.google.com/citations?user=1MsrN80AAAAJ&hl=en)
 
 ---
 
 ### 📚 Latest Blog Posts
 
-I used to write blog posts on Medium. Here are some of my posts:
+Here is some of my last articles on medium :
 
-- [How deep does your Sentence Embedding model need to be ?](https://medium.com/data-from-the-trenches/how-deep-does-your-sentence-embedding-model-need-to-be-cdffa191cb53)
-- [Arithmetic Properties of Word Embeddings](https://medium.com/data-from-the-trenches/arithmetic-properties-of-word-embeddings-e918e3fda2ac)
-- [Text Classification: The First Step Toward NLP Mastery](https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73)
+- [NLP using DeepLeaning Tutorials: A Sentiment Classifier based on Perceptron](https://pub.towardsai.net/nlp-using-deepleaning-tutorials-a-sentiment-classifier-based-on-perceptron-part-1-4-712eefe20899)
+- [NLP using Deep Learning Tutorials: Understand Loss Function](https://pub.towardsai.net/nlp-using-deep-learning-tutorials-understand-loss-function-2aaf73ec6c2b)
+- [How I collected an Arabic DataSet of more than 5000 articles?](https://medium.datadriveninvestor.com/how-i-collected-an-arabic-dataset-of-more-than-5000-articles-7f5de65e8ca2)
 
-➡️ [more blog posts...](https://helboukkouri.github.io/blog/about/)
+➡️ [more blog posts...](https://abdelkader-rhouati.medium.com/)
 
 ---
 
-<img align="left" alt="helboukkouri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=helboukkouri&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="helboukkouri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arhouati&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://helboukkouri.github.io/blog/
-[twitter]: https://twitter.com/helboukkouri
-[linkedin]: https://www.linkedin.com/in/helboukkouri/
+[website]: https://abdelkader-rhouati.medium.com/
+[twitter]: https://twitter.com/arhouati
+[linkedin]: https://www.linkedin.com/in/abdelkader-rhouati/

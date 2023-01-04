@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=https://abdelkader-rhouati.medium.com/&style=for-the-badge&url=https://abdelkader-rhouati.medium.com/)](https://arhouati.github.io/) [![Website](https://img.shields.io/website?label=https%3A%2F%2Farhouati.github.io%2F&style=for-the-badge&url=https%3A%2F%2Farhouati.github.io%2F)](https://arhouati.github.io/) [![Twitter Follow](https://img.shields.io/twitter/follow/arhouati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farhouati&screen_name=arhouati)
 
-## I'm a DataScientist and Ph.D researcher on NLP, Machine Learning, Computer Vision and XAI, At Novelis.io Lab (Ecole Polytechnique Paris, France)
+## I'm a Data Project Manager, DataScientist and Ph.D researcher on NLP, Machine Learning, Computer Vision and XAI
 
-⚡ Fun facts: I love live and animation movies, I'm working on my first live short movie as director and script writer.
+⚡ Fun facts: I love live and animation movies, I'm working on different projects as director and script writer.
 
 ### Connect with me:
 
